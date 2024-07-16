@@ -27,5 +27,5 @@ Desarrollada por Thomas O'Neil Álvarez.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/EasyScann.git
+   git clone https://github.com/ccyl13/EasyScann.git
    cd EasyScann
