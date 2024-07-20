@@ -29,3 +29,4 @@ Desarrollada por Thomas O'Neil Álvarez.
    ```bash
    git clone https://github.com/ccyl13/EasyScann.git
    cd EasyScann
+   ./EasyScann.py
